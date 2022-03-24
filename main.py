@@ -16,4 +16,6 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 #/usr/bin/python?
 
-print("Hello World")
+def main(msg):
+    print (msg)
+main("Hello People")
